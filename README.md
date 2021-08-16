@@ -1,4 +1,4 @@
-# internet_ui
+# Internet Sensitive UI in Flutter
 
 ![internet1](https://user-images.githubusercontent.com/80779458/127551126-08da5b43-bac5-425e-b7b7-893017eb648c.jpg)
 ![internet2](https://user-images.githubusercontent.com/80779458/127551152-7bd1d673-3eed-42fe-b012-2fd14f8d0764.png)
